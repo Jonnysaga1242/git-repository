@@ -1,28 +1,34 @@
 ﻿using System;
 
-class Program
+namespace DensityCalculator
 {
-    static void Main(string[] args)
+    class Program
     {
-        // Ask user for their age
-        Console.Write("Enter your age: ");
-        string input = Console.ReadLine() ?? "0";
-
-        if (int.TryParse(input, out int age) && age > 0)
+        static void Main(string[] args)
         {
-            // Calculate max heart rate
-            int maxHeartRate = 220 - age;
+            Console.WriteLine("=== Density Calculator ===");
 
-            // Show result
-            Console.WriteLine($"Your estimated maximum heart rate is {maxHeartRate} beats per minute.");
-        }
-        else
-        {
-            Console.WriteLine("Invalid input. Please enter a valid age (positive number).");
-        }
+            // Ask for mass
+            Console.Write("Enter the mass of the object (in kilograms): ");
+            double mass = Convert.ToDouble(Console.ReadLine());
 
-        // Keep console window open
-        Console.WriteLine("Press any key to exit...");
-        Console.ReadKey();
+            // Ask for volume
+            Console.Write("Enter the volume of the object (in cubic meters): ");
+            double volume = Convert.ToDouble(Console.ReadLine());
+
+            // Calculate density
+            if (volume == 0)
+            {
+                Console.WriteLine("Error: Volume cannot be zero.");
+            }
+            else
+            {
+                double density = mass / volume;
+                Console.WriteLine($"The density of the object is {density} kg/m³");
+            }
+
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
     }
 }
