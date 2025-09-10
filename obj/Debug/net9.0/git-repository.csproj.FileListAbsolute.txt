@@ -1,0 +1,15 @@
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\bin\Debug\net9.0\git-repository.exe
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\bin\Debug\net9.0\git-repository.deps.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\bin\Debug\net9.0\git-repository.runtimeconfig.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\bin\Debug\net9.0\git-repository.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\bin\Debug\net9.0\git-repository.pdb
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.AssemblyInfoInputs.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.AssemblyInfo.cs
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.sourcelink.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\refint\git-repository.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.pdb
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\git-repository.genruntimeconfig.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\git-repository\obj\Debug\net9.0\ref\git-repository.dll
